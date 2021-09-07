@@ -1,1 +1,1 @@
-This is Parth Tyagi's first git project.
+This is Parth's first git project.
